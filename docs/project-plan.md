@@ -1,10 +1,10 @@
-#***studyFlow*** - Project Plan
+# StudyFlow — Project Plan
 
-**##1. Project Overview**
-
-*###WHAT IS STUDY FLOW?*
+## 1. Project Overview
 
 StudyFlow is a web application that brings study planning, task management, notes, focus sessions, and progress tracking into one place for students.
+
+I’m building this as my first full-stack portfolio project, so I’ll be developing it step by step while learning how the frontend, backend, database, and other parts of a web application work together.
 
 
 ## 2. Problem Statement
