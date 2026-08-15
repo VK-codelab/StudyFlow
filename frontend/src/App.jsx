@@ -1,9 +1,13 @@
+import "./App.css";
+
 function App() {
   return (
-    <div>
-      <h1>StudyFlow</h1>
-      <p>Study smarter. Flow better. 🚀</p>
-    </div>
+    <main className="app">
+      <section className="hero">
+        <h1>StudyFlow</h1>
+        <p>Study smarter. Flow better. 🚀</p>
+      </section>
+    </main>
   );
 }
 
